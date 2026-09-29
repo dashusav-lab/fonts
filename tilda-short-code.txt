@@ -1,0 +1,385 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/dashusav-lab/fonts@main/ribbon-constructor.css">
+<section id="packRibbonConstructor">
+
+<div class="pr-wrap">
+
+
+  <span class="pr-kicker">
+    Визуальный конструктор
+  </span>
+
+
+  <h2 class="pr-title">
+    Подберите цвет упаковочной ленты
+  </h2>
+
+
+  <p class="pr-lead">
+    Выберите цвет ленты и цвет нанесения.
+    Сразу сравните, как выбранное сочетание выглядит
+    на лентах шириной 15 и 25 мм.
+  </p>
+
+
+  <!-- =====================================================
+       PREVIEW
+  ====================================================== -->
+
+
+  <div class="pr-personalization">
+    <p class="pr-personalization-text">
+      Добавьте свою надпись или загрузите логотип SVG и сразу примерьте нанесение на ленту. Цвет нанесения меняется вместе с выбранным риббоном.
+    </p>
+
+    <div class="pr-mode-switch" role="group" aria-label="Тип нанесения">
+      <button type="button" class="pr-mode-button active" data-pr-mode="text">Своя надпись</button>
+      <button type="button" class="pr-mode-button" data-pr-mode="svg">Логотип SVG</button>
+    </div>
+
+    <div class="pr-mode-panel active" id="prTextPanel">
+      <div class="pr-text-grid" style="margin-bottom:12px">
+        <div>
+          <label class="pr-field-label" for="prFontLanguage">Алфавит</label>
+          <select class="pr-font-select" id="prFontLanguage" disabled>
+            <option value="all">Все</option>
+            <option value="cyrillic">Кириллица</option>
+            <option value="latin">Латиница</option>
+          </select>
+        </div>
+        <div>
+          <label class="pr-field-label" for="prFontCategorySelect">Категория</label>
+          <select class="pr-font-select" id="prFontCategorySelect" disabled></select>
+        </div>
+      </div>
+      <p class="pr-font-note">Кириллица — полный русский алфавит с Ё/ё. Латиница — A–Z и a–z. Категория определяется по сведениям внутри шрифта.</p>
+      <p class="pr-font-note" id="prFontFilterNote" role="status" aria-live="polite"></p>
+      <div class="pr-text-grid">
+        <div>
+          <label class="pr-field-label" for="prCustomText">Текст на ленте</label>
+          <input class="pr-text-input" id="prCustomText" type="text" maxlength="60" value="ВАША НАДПИСЬ" placeholder="Введите свою надпись">
+        </div>
+        <div>
+          <label class="pr-field-label" for="prFontSelect">Шрифт</label>
+          <select class="pr-font-select" id="prFontSelect"></select>
+        </div>
+      </div>
+      <div class="pr-font-preview" id="prFontPreview">ВАША НАДПИСЬ</div>
+      <p class="pr-selected-font">Выбранный шрифт: <strong id="prSelectedFontName">Arial</strong></p>
+      <p class="pr-font-note">Шрифт загружается из нашей библиотеки сразу после выбора и применяется к превью и ленте. Кириллица и латиница отображаются выбранным шрифтом, если в нём есть нужные символы; для отсутствующих символов используется Arial. Перед производством макет проверяет дизайнер.</p>
+    </div>
+
+    <div class="pr-mode-panel" id="prSvgPanel">
+      <label class="pr-logo-upload-button" for="prLogoUpload">Загрузить логотип SVG</label>
+      <span class="pr-file-name" id="prLogoFileName"></span>
+      <input class="pr-logo-file" id="prLogoUpload" type="file" accept=".svg,image/svg+xml">
+    </div>
+
+    <div class="pr-logo-settings">
+      <div class="pr-logo-setting">
+        <div class="pr-logo-setting-head">
+          <span id="prSizeLabel">Размер текста</span>
+          <strong id="prLogoSizeValue">70%</strong>
+        </div>
+        <input class="pr-logo-range" id="prLogoSize" type="range" min="25" max="140" step="1" value="70">
+      </div>
+
+      <div class="pr-logo-setting">
+        <div class="pr-logo-setting-head">
+          <span>Частота повторения</span>
+          <strong id="prLogoRepeatValue">5 повторов</strong>
+        </div>
+        <input class="pr-logo-range" id="prLogoRepeat" type="range" min="2" max="12" step="1" value="5">
+      </div>
+    </div>
+  </div>
+
+  <div class="pr-card pr-preview">
+
+    <div class="pr-preview-head">
+
+      <strong>
+        Предпросмотр
+      </strong>
+
+      <button
+        type="button"
+        class="pr-reset"
+        id="prReset"
+      >
+        Сбросить
+      </button>
+
+    </div>
+
+
+    <div class="pr-stage">
+
+
+      <!-- 15 MM -->
+
+      <div class="pr-ribbon-row">
+
+        <div class="pr-size">
+
+          <strong>
+            15 мм
+          </strong>
+
+          <span>
+            ширина ленты
+          </span>
+
+        </div>
+
+
+        <div
+          class="pr-ribbon pr-ribbon-15"
+          id="prRibbon15"
+        >
+
+          <div class="pr-print">
+
+            <div class="pr-print-track">
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+      <!-- 25 MM -->
+
+      <div class="pr-ribbon-row">
+
+        <div class="pr-size">
+
+          <strong>
+            25 мм
+          </strong>
+
+          <span>
+            ширина ленты
+          </span>
+
+        </div>
+
+
+        <div
+          class="pr-ribbon pr-ribbon-25"
+          id="prRibbon25"
+        >
+
+          <div class="pr-print">
+
+            <div class="pr-print-track">
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+              <span class="pr-logo">
+                ВАШ ЛОГОТИП
+              </span>
+
+            </div>
+
+          </div>
+
+        </div>
+
+      </div>
+
+
+    </div>
+
+  </div>
+
+
+  <!-- =====================================================
+       COLORS
+  ====================================================== -->
+
+  <div class="pr-controls">
+
+
+    <!-- ЦВЕТ ЛЕНТЫ -->
+
+    <div class="pr-card">
+
+      <div class="pr-section-title">
+
+        <span class="pr-number">
+          1
+        </span>
+
+        Цвет ленты
+
+      </div>
+
+
+      <div
+        class="pr-swatches"
+        id="prRibbonColors"
+      ></div>
+
+    </div>
+
+
+    <!-- ЦВЕТ НАНЕСЕНИЯ -->
+
+    <div class="pr-card">
+
+      <div class="pr-section-title">
+
+        <span class="pr-number">
+          2
+        </span>
+
+        Цвет нанесения
+
+      </div>
+
+
+      <div
+        class="pr-swatches"
+        id="prPrintColors"
+      ></div>
+
+    </div>
+
+
+  </div>
+
+
+  <!-- =====================================================
+       GALLERY
+  ====================================================== -->
+
+  <div class="pr-card pr-gallery-card">
+
+    <div class="pr-gallery-head">
+
+      <div>
+
+        <h3 class="pr-gallery-title">
+          Примеры наших работ
+        </h3>
+
+        <p class="pr-gallery-text">
+          Реальные фотографии выбранного сочетания.
+        </p>
+
+      </div>
+
+
+      <div
+        class="pr-combination"
+        id="prCombination"
+      ></div>
+
+    </div>
+
+
+    <div id="prGalleryContent">
+
+      <div class="pr-gallery-status">
+
+        <span class="pr-loader"></span>
+
+        <strong>
+          Загружаем фотографии
+        </strong>
+
+      </div>
+
+    </div>
+
+  </div>
+
+
+</div>
+
+</section>
+
+
+<!-- =========================================================
+     LIGHTBOX
+========================================================= -->
+
+<div
+  class="pr-lightbox"
+  id="prLightbox"
+>
+
+  <button
+    type="button"
+    class="pr-close"
+    id="prClose"
+    aria-label="Закрыть"
+  >
+    ×
+  </button>
+
+
+  <button
+    type="button"
+    class="pr-arrow pr-prev"
+    id="prPrev"
+    aria-label="Предыдущее фото"
+  >
+    ‹
+  </button>
+
+
+  <img
+    id="prLightboxImage"
+    alt="Пример упаковочной ленты"
+  >
+
+
+  <button
+    type="button"
+    class="pr-arrow pr-next"
+    id="prNext"
+    aria-label="Следующее фото"
+  >
+    ›
+  </button>
+
+</div>
+<script src="https://cdn.jsdelivr.net/gh/dashusav-lab/fonts@main/ribbon-constructor.js"></script>
