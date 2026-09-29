@@ -1,0 +1,766 @@
+C:\Users\user\Desktop\FULL-FONT-BACKUP\malgunbd.ttf -> malgunbd.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\malgunsl-2.ttf -> malgunsl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\malgunsl.ttf -> malgunsl.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Malicute Script Regular.ttf -> malicute-script-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-bold.otf -> manrope-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-extrabold.otf -> manrope-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-light.otf -> manrope-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-medium.otf -> manrope-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-regular.otf -> manrope-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-semibold.otf -> manrope-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\manrope-thin.otf -> manrope-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Marceila.ttf -> marceila.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\marlett-2.ttf -> marlett-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\marlett.ttf -> marlett.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MATURASC-2.TTF -> maturasc-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MazzardSoftM-Light.ttf -> mazzardsoftm-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MazzardSoftM-LightItalic.ttf -> mazzardsoftm-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mediator Narrow Web Extra Bold.ttf -> mediator-narrow-web-extra-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Medium.ttf -> medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Memoria vestri.ttf -> memoria-vestri.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mencken-std-extrabold.otf -> mencken-std-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mencken-std-head-extrabold.otf -> mencken-std-head-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Buble.otf -> mianga-buble.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Bubleitalic.otf -> mianga-bubleitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Italic.otf -> mianga-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Outline.otf -> mianga-outline.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Outlineitalic.otf -> mianga-outlineitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Regular.otf -> mianga-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Shadow.otf -> mianga-shadow.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mianga Shadowitalic.otf -> mianga-shadowitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MicraC-Bold.otf -> micrac-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MicraC.otf -> micrac.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MicraDi.otf -> micradi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\micross-2.ttf -> micross-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\micross.ttf -> micross.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MightyDiteyNF.ttf -> mightyditeynf.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-Bold.ttf -> mintysisah-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-BoldItalic.ttf -> mintysisah-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-Italic.ttf -> mintysisah-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-Medium.ttf -> mintysisah-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-MediumItalic.ttf -> mintysisah-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MintysisAH-Regular.ttf -> mintysisah-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Miss_Katherine-Script.otf -> miss_katherine-script.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Miss_Katherine_symbols-Regular.otf -> miss_katherine_symbols-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MISTRAL-2.TTF -> mistral-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mmrtext-2.ttf -> mmrtext-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mmrtext.ttf -> mmrtext.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mmrtextb-2.ttf -> mmrtextb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mmrtextb.ttf -> mmrtextb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MOD20-2.TTF -> mod20-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\monamourone_medium.ttf -> monamourone_medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\monbaiti-2.ttf -> monbaiti-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\monbaiti.ttf -> monbaiti.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondensedDisplay.otf -> moniqa-blackcondenseddisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondensedHeading.otf -> moniqa-blackcondensedheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondItaDisplay.otf -> moniqa-blackconditadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondItaHeading.otf -> moniqa-blackconditaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondItaParagraph.otf -> moniqa-blackconditaparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackCondParagraph.otf -> moniqa-blackcondparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackDisplay.otf -> moniqa-blackdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackHeading.otf -> moniqa-blackheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackItalicDisplay.otf -> moniqa-blackitalicdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackItalicHeading.otf -> moniqa-blackitalicheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackItalicParagraph.otf -> moniqa-blackitalicparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackNarrowDisplay.otf -> moniqa-blacknarrowdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackNarrowHeading.otf -> moniqa-blacknarrowheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackNarrowItaDisplay.otf -> moniqa-blacknarrowitadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackNarrowItaHeading.otf -> moniqa-blacknarrowitaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackNarrowParagraph.otf -> moniqa-blacknarrowparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlackParagraph.otf -> moniqa-blackparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BlkNrItParagraph.otf -> moniqa-blknritparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldCondItaDisplay.otf -> moniqa-boldconditadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldCondItaHeading.otf -> moniqa-boldconditaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldDisplay.otf -> moniqa-bolddisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldHeading.otf -> moniqa-boldheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldItalicDisplay.otf -> moniqa-bolditalicdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldItalicHeading.otf -> moniqa-bolditalicheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldItalicParagraph.otf -> moniqa-bolditalicparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowDisplay.otf -> moniqa-boldnarrowdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowHeading.otf -> moniqa-boldnarrowheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowItaDisplay.otf -> moniqa-boldnarrowitadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowItaHeading.otf -> moniqa-boldnarrowitaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowItaParagraph.otf -> moniqa-boldnarrowitaparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldNarrowParagraph.otf -> moniqa-boldnarrowparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-BoldParagraph.otf -> moniqa-boldparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondDisplay.otf -> moniqa-extbdconddisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondHeading.otf -> moniqa-extbdcondheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondItaDisplay.otf -> moniqa-extbdconditadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondItaHeading.otf -> moniqa-extbdconditaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondItaParagraph.otf -> moniqa-extbdconditaparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdCondParagraph.otf -> moniqa-extbdcondparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdItaParagraph.otf -> moniqa-extbditaparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdNarrowItaDisplay.otf -> moniqa-extbdnarrowitadisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdNarrowItaHeading.otf -> moniqa-extbdnarrowitaheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtBdNarrowParagraph.otf -> moniqa-extbdnarrowparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldDisplay.otf -> moniqa-extrabolddisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldHeading.otf -> moniqa-extraboldheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldItalicDisplay.otf -> moniqa-extrabolditalicdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldItalicHeading.otf -> moniqa-extrabolditalicheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldNarrowDisplay.otf -> moniqa-extraboldnarrowdisplay.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldNarrowHeading.otf -> moniqa-extraboldnarrowheading.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-ExtraBoldParagraph.otf -> moniqa-extraboldparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moniqa-XBdNrItParagraph.otf -> moniqa-xbdnritparagraph.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MonospaceBold.ttf -> monospacebold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MonospaceOblique.ttf -> monospaceoblique.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MonospaceRegular.ttf -> monospaceregular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Monotype-Corsiva-Bold-Italic.ttf -> monotype-corsiva-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Monotype-Corsiva-Bold.ttf -> monotype-corsiva-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Monotype-Corsiva-Regular-Italic.ttf -> monotype-corsiva-regular-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Monotype-Corsiva-Regular.ttf -> monotype-corsiva-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Black.ttf -> mont-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-BlackItalic.ttf -> mont-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Bold.ttf -> mont-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-BoldItalic.ttf -> mont-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-ExtraLight.ttf -> mont-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-ExtraLightItalic.ttf -> mont-extralightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Heavy.ttf -> mont-heavy.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-HeavyItalic.ttf -> mont-heavyitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Light.ttf -> mont-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-LightItalic.ttf -> mont-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Regular.ttf -> mont-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-RegularItalic.ttf -> mont-regularitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-SemiBold.ttf -> mont-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-SemiBoldItalic.ttf -> mont-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-Thin.ttf -> mont-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mont-ThinItalic.ttf -> mont-thinitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Monti-Decor.ttf -> monti-decor.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Black.ttf -> montserrat-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-BlackItalic.ttf -> montserrat-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Bold.ttf -> montserrat-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-BoldItalic.ttf -> montserrat-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-ExtraBold.ttf -> montserrat-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-ExtraBoldItalic.ttf -> montserrat-extrabolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-ExtraLight.ttf -> montserrat-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-ExtraLightItalic.ttf -> montserrat-extralightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Italic.ttf -> montserrat-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Light.ttf -> montserrat-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-LightItalic.ttf -> montserrat-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Medium.ttf -> montserrat-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-MediumItalic.ttf -> montserrat-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Regular.ttf -> montserrat-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-SemiBold.ttf -> montserrat-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-SemiBoldItalic.ttf -> montserrat-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-Thin.ttf -> montserrat-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Montserrat-ThinItalic.ttf -> montserrat-thinitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MOSCOW2024.otf -> moscow2024.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MotivationOfHearts.ttf -> motivationofhearts.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mountains-of-christmas-cyrillic.ttf -> mountains-of-christmas-cyrillic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Moves Cabse.ttf -> moves-cabse.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MozaikRamadhan.otf -> mozaikramadhan.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MSUIGHUB-2.TTF -> msuighub-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MSUIGHUB.TTF -> msuighub.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MSUIGHUR-2.TTF -> msuighur-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MSung HK Light.ttf -> msung-hk-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\msyi-2.ttf -> msyi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\msyi.ttf -> msyi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MTCORSVA-2.TTF -> mtcorsva-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MTEXTRA-2.TTF -> mtextra-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\muller-extrabold.otf -> muller-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MultiroundPro.otf -> multiroundpro.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-100.ttf -> museosanscyrl-100.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-100Italic.ttf -> museosanscyrl-100italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-300.ttf -> museosanscyrl-300.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-300Italic.ttf -> museosanscyrl-300italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-500.ttf -> museosanscyrl-500.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-500Italic.ttf -> museosanscyrl-500italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-700.ttf -> museosanscyrl-700.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-700Italic.ttf -> museosanscyrl-700italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-900.ttf -> museosanscyrl-900.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\MuseoSansCyrl-900Italic.ttf -> museosanscyrl-900italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Mutabor.otf -> mutabor.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mvboli-2.ttf -> mvboli-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\mvboli.ttf -> mvboli.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NAURYZREDKEDS.ttf -> nauryzredkeds.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Nautilus.otf -> nautilus.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-Bold-BF63e99fa3e5a25.otf -> neuemagnatdisplaytest-bold-bf63e99fa3e5a25.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-BoldItalic-BF63e99fa2e44e9.otf -> neuemagnatdisplaytest-bolditalic-bf63e99fa2e44e9.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-ExtraBold-BF63e99fa3cd19d.otf -> neuemagnatdisplaytest-extrabold-bf63e99fa3cd19d.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-ExtraBoldItalic-BF63e99fa391817.otf -> neuemagnatdisplaytest-extrabolditalic-bf63e99fa391817.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-Light-BF63e99fda7976c.otf -> neuemagnatdisplaytest-light-bf63e99fda7976c.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-LightItalic-BF63e99fdae737a.otf -> neuemagnatdisplaytest-lightitalic-bf63e99fdae737a.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-Medium-BF63e99fda718ca.otf -> neuemagnatdisplaytest-medium-bf63e99fda718ca.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-MediumItalic-BF63e99fda3e7f8.otf -> neuemagnatdisplaytest-mediumitalic-bf63e99fda3e7f8.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-Regular-BF63e99fdc1dab2.otf -> neuemagnatdisplaytest-regular-bf63e99fdc1dab2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-RegularItalic-BF63e99fdc80d11.otf -> neuemagnatdisplaytest-regularitalic-bf63e99fdc80d11.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-SemiBold-BF63e99fdae8ca7.otf -> neuemagnatdisplaytest-semibold-bf63e99fdae8ca7.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatDisplayTest-SemiBoldItalic-BF63e99fdabfcff.otf -> neuemagnatdisplaytest-semibolditalic-bf63e99fdabfcff.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-Bold-BF63e99ff5c0789.otf -> neuemagnattest-bold-bf63e99ff5c0789.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-BoldItalic-BF63e99ff741d79.otf -> neuemagnattest-bolditalic-bf63e99ff741d79.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-ExtraBold-BF63e99ff77393f.otf -> neuemagnattest-extrabold-bf63e99ff77393f.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-ExtraBoldItalic-BF63e99ff7e4c27.otf -> neuemagnattest-extrabolditalic-bf63e99ff7e4c27.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-Light-BF63e99ff767841.otf -> neuemagnattest-light-bf63e99ff767841.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-LightItalic-BF63e99ff8a7e8a.otf -> neuemagnattest-lightitalic-bf63e99ff8a7e8a.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-Medium-BF63e99ffa0e995.otf -> neuemagnattest-medium-bf63e99ffa0e995.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-MediumItalic-BF63e99ffa2bf20.otf -> neuemagnattest-mediumitalic-bf63e99ffa2bf20.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-Regular-BF63e99ffa8a6c3.otf -> neuemagnattest-regular-bf63e99ffa8a6c3.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-RegularItalic-BF63e99ffa63c4b.otf -> neuemagnattest-regularitalic-bf63e99ffa63c4b.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-SemiBold-BF63e99ffae4c9d.otf -> neuemagnattest-semibold-bf63e99ffae4c9d.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTest-SemiBoldItalic-BF63e99ffb041f1.otf -> neuemagnattest-semibolditalic-bf63e99ffb041f1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-Bold-BF63e9a00a7b9bc.otf -> neuemagnattexttest-bold-bf63e9a00a7b9bc.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-BoldItalic-BF63e9a00892b17.otf -> neuemagnattexttest-bolditalic-bf63e9a00892b17.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-ExtraBold-BF63e9a00ac25c5.otf -> neuemagnattexttest-extrabold-bf63e9a00ac25c5.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-ExtraBoldItalic-BF63e9a00b769ae.otf -> neuemagnattexttest-extrabolditalic-bf63e9a00b769ae.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-Light-BF63e9a00b2af69.otf -> neuemagnattexttest-light-bf63e9a00b2af69.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-LightItalic-BF63e9a00ad29e6.otf -> neuemagnattexttest-lightitalic-bf63e9a00ad29e6.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-Medium-BF63e9a00b4f9e8.otf -> neuemagnattexttest-medium-bf63e9a00b4f9e8.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-MediumItalic-BF63e9a00bb8da0.otf -> neuemagnattexttest-mediumitalic-bf63e9a00bb8da0.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-Regular-BF63e9a00b87450.otf -> neuemagnattexttest-regular-bf63e9a00b87450.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-RegularItalic-BF63e9a00b7a095.otf -> neuemagnattexttest-regularitalic-bf63e9a00b7a095.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-SemiBold-BF63e9a00d36866.otf -> neuemagnattexttest-semibold-bf63e9a00d36866.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NeueMagnatTextTest-SemiBoldItalic-BF63e9a00d7995e.otf -> neuemagnattexttest-semibolditalic-bf63e9a00d7995e.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\News701 BT Bold.ttf -> news701-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\News701 BT Italic.ttf -> news701-bt-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\News706 BT Bold.ttf -> news706-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NewsGoth BT Bold Italic.ttf -> newsgoth-bt-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NewsGoth BT Bold.ttf -> newsgoth-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NewsGoth BT Italic.ttf -> newsgoth-bt-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NewsGoth BT Roman.ttf -> newsgoth-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NewsGoth Lt BT Light.ttf -> newsgoth-lt-bt-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NexaRustHandmade-Trial-Condensed.ttf -> nexarusthandmade-trial-condensed.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NIAGENG-2.TTF -> niageng-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NIAGSOL-2.TTF -> niagsol-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\nicolas-cochin-text.ttf -> nicolas-cochin-text.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Nirmala-2.ttf -> nirmala-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Nirmala.ttf -> nirmala.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NirmalaB-2.ttf -> nirmalab-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NirmalaB.ttf -> nirmalab.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NirmalaS-2.ttf -> nirmalas-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NirmalaS.ttf -> nirmalas.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NivaSmallCaps-Light.ttf -> nivasmallcaps-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NivaSmallCaps-Thin.ttf -> nivasmallcaps-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NK123.ttf -> nk123.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NotoSans-Bold.ttf -> notosans-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NotoSans-BoldItalic.ttf -> notosans-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NotoSans-Italic.ttf -> notosans-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NotoSans-Regular.ttf -> notosans-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\NotoSerifDisplay-ExtraCondensed.ttf -> notoserifdisplay-extracondensed.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Nozhik-Bold.otf -> nozhik-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ntailu-2.ttf -> ntailu-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ntailu.ttf -> ntailu.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ntailub-2.ttf -> ntailub-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ntailub.ttf -> ntailub.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\nuku1.ttf -> nuku1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\nyashasans.ttf -> nyashasans.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OCR-A BT.ttf -> ocr-a-bt.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OCR-a_.ttf -> ocr-a.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OCR-B 10 BT.ttf -> ocr-b-10-bt.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OCR-b_.ttf -> ocr-b.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OCRAEXT-2.TTF -> ocraext-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_1 Shelley Volante.ttf -> ofont.ru_1-shelley-volante.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Acrom (1).ttf -> ofont.ru_acrom-1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Acrom.ttf -> ofont.ru_acrom.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Artemon .ttf -> ofont.ru_artemon.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Bad Script.ttf -> ofont.ru_bad-script.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Baskerville WGL4 BT.ttf -> ofont.ru_baskerville-wgl4-bt.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Beton Cyr.ttf -> ofont.ru_beton-cyr.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Bonche.ttf -> ofont.ru_bonche.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Buba.ttf -> ofont.ru_buba.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Circe.ttf -> ofont.ru_circe.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Cruinn.ttf -> ofont.ru_cruinn.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Denistina.ttf -> ofont.ru_denistina.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Elfabe.ttf -> ofont.ru_elfabe.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Forward.ttf -> ofont.ru_forward.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_HTC Hand (1).ttf -> ofont.ru_htc-hand-1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Imperial.ttf -> ofont.ru_imperial.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Izvestija.ttf -> ofont.ru_izvestija.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Marianna.ttf -> ofont.ru_marianna.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_MisterK .ttf -> ofont.ru_misterk.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Muller.ttf -> ofont.ru_muller.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Nicoletta script.ttf -> ofont.ru_nicoletta-script.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Old Classic.ttf -> ofont.ru_old-classic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OFONT.RU_OLD HORROR FILMS.TTF -> ofont.ru_old-horror-films.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_PF Libera Pro Liberissima.ttf -> ofont.ru_pf-libera-pro-liberissima.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_PopularScript.ttf -> ofont.ru_popularscript.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Proxima Nova.ttf -> ofont.ru_proxima-nova.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Radiotechnika.ttf -> ofont.ru_radiotechnika.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Rozovii Chulok.ttf -> ofont.ru_rozovii-chulok.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Shampanskoe script.ttf -> ofont.ru_shampanskoe-script.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Standout.ttf -> ofont.ru_standout.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Trajan.ttf -> ofont.ru_trajan.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Uncage (1).ttf -> ofont.ru_uncage-1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Uncage.ttf -> ofont.ru_uncage.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_VerbenaC.ttf -> ofont.ru_verbenac.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_VeryBerry Pro.ttf -> ofont.ru_veryberry-pro.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Vesna.ttf -> ofont.ru_vesna.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ofont.ru_Vezitsa.ttf -> ofont.ru_vezitsa.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Ojol.otf -> ojol.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OLDENGL-2.TTF -> oldengl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Black.ttf -> onest-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Bold.ttf -> onest-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-ExtraBold.ttf -> onest-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-ExtraLight.ttf -> onest-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Light.ttf -> onest-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Medium.ttf -> onest-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Regular.ttf -> onest-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-SemiBold.ttf -> onest-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Onest-Thin.ttf -> onest-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ONYX-2.TTF -> onyx-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-Bold.ttf -> opensans-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-BoldItalic.ttf -> opensans-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-ExtraBold.ttf -> opensans-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-ExtraBoldItalic.ttf -> opensans-extrabolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-Italic.ttf -> opensans-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-Light.ttf -> opensans-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-LightItalic.ttf -> opensans-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-Regular.ttf -> opensans-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-SemiBold.ttf -> opensans-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSans-SemiBoldItalic.ttf -> opensans-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSansCondensed-Bold.ttf -> opensanscondensed-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSansCondensed-Light.ttf -> opensanscondensed-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpenSansCondensed-LightItalic.ttf -> opensanscondensed-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioBold.ttf -> opiliobold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioBoldItalic.ttf -> opiliobolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioCondensed.ttf -> opiliocondensed.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioCondensedItalic.ttf -> opiliocondenseditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioExpanded.ttf -> opilioexpanded.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioExpandedItalic.ttf -> opilioexpandeditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioItalic.ttf -> opilioitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioOutlineItalic.ttf -> opiliooutlineitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioOutlineRegular.ttf -> opiliooutlineregular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OpilioRegular.ttf -> opilioregular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\optima-cyr.ttf -> optima-cyr.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\oranienbaum.ttf -> oranienbaum.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Orchidea Pro Md.ttf -> orchidea-pro-md.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\orchidea-pro-7.ttf -> orchidea-pro-7.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-Bold.ttf -> oswald-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-ExtraLight.ttf -> oswald-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-Light.ttf -> oswald-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-Medium.ttf -> oswald-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-Regular.ttf -> oswald-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Oswald-SemiBold.ttf -> oswald-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\OUTLOOK-2.TTF -> outlook-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\pala-2.ttf -> pala-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\pala.ttf -> pala.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palab-2.ttf -> palab-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palab.ttf -> palab.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palabi-2.ttf -> palabi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palabi.ttf -> palabi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palai-2.ttf -> palai-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\palai.ttf -> palai.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PALSCRI-2.TTF -> palscri-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PAPYRUS-2.TTF -> papyrus-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PARCHM-2.TTF -> parchm-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\pehlevi.ttf -> pehlevi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PERBI_.TTF -> perbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PERB__.TTF -> perb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Periodico Text TRIAL Rg.ttf -> periodico-text-trial-rg.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PERI__.TTF -> peri.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PERTIBD-2.TTF -> pertibd-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PERTILI-2.TTF -> pertili-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PER___.TTF -> per.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PFMonumentaPro-Metallica.ttf -> pfmonumentapro-metallica.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PFMonumentaPro-Regular.ttf -> pfmonumentapro-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PFMonumentaPro-Shaded.ttf -> pfmonumentapro-shaded.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\phagspa-2.ttf -> phagspa-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\phagspa.ttf -> phagspa.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\phagspab-2.ttf -> phagspab-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\phagspab.ttf -> phagspab.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Philosopher-Bold.ttf -> philosopher-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Philosopher-BoldItalic.ttf -> philosopher-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Philosopher-Italic.ttf -> philosopher-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Philosopher-Regular.ttf -> philosopher-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Pilowlava-Atome.otf -> pilowlava-atome.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Pilowlava-Regular.otf -> pilowlava-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\pintaninapro_regular.otf -> pintaninapro_regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PLAYBILL-2.TTF -> playbill-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PlayfairDisplay-Italic-VariableFont_wght.ttf -> playfairdisplay-italic-variablefont_wght.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PlayfairDisplay-VariableFont_wght.ttf -> playfairdisplay-variablefont_wght.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PoiretOne-Regular.ttf -> poiretone-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Pomidorko.ttf -> pomidorko.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\POORICH-2.TTF -> poorich-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Black.ttf -> poppins-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-BlackItalic.ttf -> poppins-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Bold.ttf -> poppins-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-BoldItalic.ttf -> poppins-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-ExtraBold.ttf -> poppins-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-ExtraBoldItalic.ttf -> poppins-extrabolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-ExtraLight.ttf -> poppins-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-ExtraLightItalic.ttf -> poppins-extralightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Italic.ttf -> poppins-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Light.ttf -> poppins-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-LightItalic.ttf -> poppins-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Medium.ttf -> poppins-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-MediumItalic.ttf -> poppins-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Regular.ttf -> poppins-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-SemiBold.ttf -> poppins-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-SemiBoldItalic.ttf -> poppins-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-Thin.ttf -> poppins-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Poppins-ThinItalic.ttf -> poppins-thinitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Posterama 2001 W04 Light.ttf -> posterama-2001-w04-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Posterama 2001 W04 Regular.ttf -> posterama-2001-w04-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PRISTINA-2.TTF -> pristina-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ProtestRiot-Regular.ttf -> protestriot-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PT-Astra-Sans_Bold-Italic.ttf -> pt-astra-sans_bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PT-Astra-Sans_Bold.ttf -> pt-astra-sans_bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PT-Astra-Sans_Italic.ttf -> pt-astra-sans_italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PT-Astra-Sans_Regular.ttf -> pt-astra-sans_regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PublicaSans-Medium.otf -> publicasans-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PublicaSans-Thin.otf -> publicasans-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\PublicaSans.otf -> publicasans.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RAGE-2.TTF -> rage-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Black.ttf -> raleway-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-BlackItalic.ttf -> raleway-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Bold.ttf -> raleway-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-BoldItalic.ttf -> raleway-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-ExtraBold.ttf -> raleway-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-ExtraBoldItalic.ttf -> raleway-extrabolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-ExtraLight.ttf -> raleway-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-ExtraLightItalic.ttf -> raleway-extralightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Italic.ttf -> raleway-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Light.ttf -> raleway-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-LightItalic.ttf -> raleway-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Medium.ttf -> raleway-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-MediumItalic.ttf -> raleway-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Regular.ttf -> raleway-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-SemiBold.ttf -> raleway-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-SemiBoldItalic.ttf -> raleway-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-Thin.ttf -> raleway-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Raleway-ThinItalic.ttf -> raleway-thinitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RAVIE-2.TTF -> ravie-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\REFSAN-2.TTF -> refsan-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\REFSPCL-2.TTF -> refspcl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Reghina Font.otf -> reghina-font.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-Bold.ttf -> renaultlife-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-BoldItalic.otf -> renaultlife-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-Italic.otf -> renaultlife-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-Light.ttf -> renaultlife-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-LightItalic.otf -> renaultlife-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RenaultLife-Regular.ttf -> renaultlife-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Rhythmic_RUS.otf -> rhythmic_rus.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Riimut.otf -> riimut.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RoadRadio-Black.ttf -> roadradio-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RoadRadio-Bold.ttf -> roadradio-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RoadRadio-Light.ttf -> roadradio-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RoadRadio-Thin.ttf -> roadradio-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RoadRadio.ttf -> roadradio.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Black.ttf -> roboto-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-BlackItalic.ttf -> roboto-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Bold.ttf -> roboto-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-BoldItalic.ttf -> roboto-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Italic.ttf -> roboto-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Light.ttf -> roboto-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-LightItalic.ttf -> roboto-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Medium.ttf -> roboto-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-MediumItalic.ttf -> roboto-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Regular.ttf -> roboto-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-Thin.ttf -> roboto-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Roboto-ThinItalic.ttf -> roboto-thinitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCCB_.TTF -> roccb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCC__.TTF -> rocc.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCK-2.TTF -> rock-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCKB-2.TTF -> rockb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCKBI-2.TTF -> rockbi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCKEB-2.TTF -> rockeb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ROCKI-2.TTF -> rocki-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Rolling Regular.ttf -> rolling-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Romantique Script.ttf -> romantique-script.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Rontlexy-OVXLP.otf -> rontlexy-ovxlp.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\room-black.otf -> room-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\RUSJellyka - Estrya's Handwriti Regular.ttf -> rusjellyka-estrya-s-handwriti-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SaarSPDemo.otf -> saarspdemo.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Sans.ttf -> sans.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Sansation_Regular.ttf -> sansation_regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Schadow BT Bold.ttf -> schadow-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Schadow BT Roman.ttf -> schadow-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SCHLBKB-2.TTF -> schlbkb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SCHLBKBI-2.TTF -> schlbkbi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SCHLBKI-2.TTF -> schlbki-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SCRIPTBL-2.TTF -> scriptbl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SeasideResortNf.ttf -> seasideresortnf.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Seasideresortnf_0.ttf -> seasideresortnf_0.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segmdl2-2.ttf -> segmdl2-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segmdl2.ttf -> segmdl2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoepr-2.ttf -> segoepr-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoepr.ttf -> segoepr.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeprb-2.ttf -> segoeprb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeprb.ttf -> segoeprb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoesc-2.ttf -> segoesc-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoesc.ttf -> segoesc.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoescb-2.ttf -> segoescb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoescb.ttf -> segoescb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeui-2.ttf -> segoeui-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeui.ttf -> segoeui.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuib-2.ttf -> segoeuib-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuib.ttf -> segoeuib.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuii-2.ttf -> segoeuii-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuii.ttf -> segoeuii.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuil-2.ttf -> segoeuil-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuil.ttf -> segoeuil.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuisl-2.ttf -> segoeuisl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuisl.ttf -> segoeuisl.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuiz-2.ttf -> segoeuiz-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\segoeuiz.ttf -> segoeuiz.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguibl-2.ttf -> seguibl-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguibl.ttf -> seguibl.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguibli-2.ttf -> seguibli-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguibli.ttf -> seguibli.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguiemj-2.ttf -> seguiemj-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguiemj.ttf -> seguiemj.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguihis-2.ttf -> seguihis-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguihis.ttf -> seguihis.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguili-2.ttf -> seguili-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguili.ttf -> seguili.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisb-2.ttf -> seguisb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisb.ttf -> seguisb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisbi-2.ttf -> seguisbi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisbi.ttf -> seguisbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisli-2.ttf -> seguisli-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisli.ttf -> seguisli.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisym-2.ttf -> seguisym-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\seguisym.ttf -> seguisym.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Black.otf -> shapirit-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Bold.otf -> shapirit-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Book.otf -> shapirit-book.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Extralight.otf -> shapirit-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Light.otf -> shapirit-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Medium.otf -> shapirit-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT Thin.otf -> shapirit-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHAPIRIT.otf -> shapirit.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Shayan.otf -> shayan.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SHOWG-2.TTF -> showg-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\silver-2.ttf -> silver-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Simplified Arabic.ttf -> simplified-arabic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\simsunb-2.ttf -> simsunb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\simsunb.ttf -> simsunb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SimsunExtG.ttf -> simsunextg.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-Bold.ttf -> skemaprodisplay-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-BoldItalic.ttf -> skemaprodisplay-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-Italic.ttf -> skemaprodisplay-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-Light.ttf -> skemaprodisplay-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-LightItalic.ttf -> skemaprodisplay-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-Medium.ttf -> skemaprodisplay-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-MediumItalic.ttf -> skemaprodisplay-mediumitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-Regular.ttf -> skemaprodisplay-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-SemiBold.ttf -> skemaprodisplay-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-SemiBoldItalic.ttf -> skemaprodisplay-semibolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-XBold.ttf -> skemaprodisplay-xbold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-XBoldItalic.ttf -> skemaprodisplay-xbolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-XLight.ttf -> skemaprodisplay-xlight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SkemaProDisplay-XLightItalic.ttf -> skemaprodisplay-xlightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\sldecor-cyr.ttf -> sldecor-cyr.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Sloop Script Regular.ttf -> sloop-script-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SmithenExtra-Regular.ttf -> smithenextra-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SmithenFontDuo-Regular.ttf -> smithenfontduo-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SmithenScript-Regular.ttf -> smithenscript-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SNAP__.TTF -> snap.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SpaceAndAstronomy.ttf -> spaceandastronomy.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Square721 BT Bold.ttf -> square721-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Square721 BT Roman.ttf -> square721-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Square721 Cn BT Bold.ttf -> square721-cn-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Square721 Cn BT Roman.ttf -> square721-cn-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Squares Bold Free.otf -> squares-bold-free.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\STENCIL-2.TTF -> stencil-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Stengazeta-Regular.ttf -> stengazeta-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\stolzl_book.otf -> stolzl_book.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\SturkopfGrotesk (Rus by Rigbi).ttf -> sturkopfgrotesk-rus-by-rigbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Sweet Hipster.ttf -> sweet-hipster.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Blk BT Black.ttf -> swis721-blk-bt-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 BlkCn BT Black.ttf -> swis721-blkcn-bt-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 BT Bold Italic.ttf -> swis721-bt-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 BT Bold.ttf -> swis721-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 BT Italic.ttf -> swis721-bt-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 BT Roman.ttf -> swis721-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Cn BT Bold Italic.ttf -> swis721-cn-bt-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Cn BT Bold.ttf -> swis721-cn-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Cn BT Italic.ttf -> swis721-cn-bt-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Cn BT Roman.ttf -> swis721-cn-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Hv BT Heavy.ttf -> swis721-hv-bt-heavy.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Lt BT Light Italic.ttf -> swis721-lt-bt-light-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 Lt BT Light.ttf -> swis721-lt-bt-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 LtEx BT Light.ttf -> swis721-ltex-bt-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 WGL4 BT Bold Italic.ttf -> swis721-wgl4-bt-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 WGL4 BT Bold.ttf -> swis721-wgl4-bt-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 WGL4 BT Italic.ttf -> swis721-wgl4-bt-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Swis721 WGL4 BT Roman.ttf -> swis721-wgl4-bt-roman.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\sylfaen-2.ttf -> sylfaen-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\sylfaen.ttf -> sylfaen.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\symbol-2.ttf -> symbol-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\symbol.ttf -> symbol.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TabacMonoTRIAL-Medium-BF6776001aab923.otf -> tabacmonotrial-medium-bf6776001aab923.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Tablon-Black.ttf -> tablon-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Tablon-Medium.ttf -> tablon-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Tablon-Regular.ttf -> tablon-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Tablon-Round-Black.ttf -> tablon-round-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tahoma-2.ttf -> tahoma-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tahoma.ttf -> tahoma.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tahomabd-2.ttf -> tahomabd-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tahomabd.ttf -> tahomabd.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\taile-2.ttf -> taile-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\taile.ttf -> taile.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\taileb-2.ttf -> taileb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\taileb.ttf -> taileb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tangak.ttf -> tangak.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCBI__.TTF -> tcbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCB___.TTF -> tcb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCCB__.TTF -> tccb.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCCEB-2.TTF -> tcceb-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCCM__.TTF -> tccm.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCMI__.TTF -> tcmi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TCM___.TTF -> tcm.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TDKinoteatrRegular.otf -> tdkinoteatrregular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TEMPSITC-2.TTF -> tempsitc-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Black.ttf -> tildasans-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Bold.ttf -> tildasans-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-ExtraBold.ttf -> tildasans-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Light.ttf -> tildasans-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Medium.ttf -> tildasans-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Regular.ttf -> tildasans-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaSans-Semibold.ttf -> tildasans-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TildaScript-Regular.ttf -> tildascript-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\times-2.ttf -> times-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\times.ttf -> times.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesbd-2.ttf -> timesbd-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesbd.ttf -> timesbd.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesbi-2.ttf -> timesbi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesbi.ttf -> timesbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesi-2.ttf -> timesi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\timesi.ttf -> timesi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TrajanPro-Bold.otf -> trajanpro-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebuc-2.ttf -> trebuc-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebuc.ttf -> trebuc.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucbd-2.ttf -> trebucbd-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucbd.ttf -> trebucbd.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucbi-2.ttf -> trebucbi-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucbi.ttf -> trebucbi.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucit-2.ttf -> trebucit-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trebucit.ttf -> trebucit.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-black.otf -> trial-rothek-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-blackitalic.otf -> trial-rothek-blackitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-bold.otf -> trial-rothek-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-bolditalic.otf -> trial-rothek-bolditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-light.otf -> trial-rothek-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\trial-rothek-lightitalic.otf -> trial-rothek-lightitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Bold-BF6487cfe5cfe3d.otf -> trial_oceanic-bold-bf6487cfe5cfe3d.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Extrabold-BF6487cfe5e8eff.otf -> trial_oceanic-extrabold-bf6487cfe5e8eff.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Light-BF6487cfe5eb596.otf -> trial_oceanic-light-bf6487cfe5eb596.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Medium-BF6487cfe5e2078.otf -> trial_oceanic-medium-bf6487cfe5e2078.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Poster-BF6487cfe5ecab1.otf -> trial_oceanic-poster-bf6487cfe5ecab1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Regular-BF6487cfe600a81.otf -> trial_oceanic-regular-bf6487cfe600a81.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Text-Extrabold-BF6487cfe5ac6a0.otf -> trial_oceanic-text-extrabold-bf6487cfe5ac6a0.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_Oceanic-Text-Regular-BF6487cfe5c94ea.otf -> trial_oceanic-text-regular-bf6487cfe5c94ea.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_OceanicText-Bold-BF6487cfe5d76e7.otf -> trial_oceanictext-bold-bf6487cfe5d76e7.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_OceanicText-Book-BF6487cfe5da4b1.otf -> trial_oceanictext-book-bf6487cfe5da4b1.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TRIAL_OceanicText-Medium-BF6487cfe5dde8c.otf -> trial_oceanictext-medium-bf6487cfe5dde8c.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Black Italic.otf -> tt-travels-trial-black-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Black.otf -> tt-travels-trial-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Bold Italic.otf -> tt-travels-trial-bold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Bold.otf -> tt-travels-trial-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial DemiBold Italic.otf -> tt-travels-trial-demibold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial DemiBold.otf -> tt-travels-trial-demibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial ExtraBold Italic.otf -> tt-travels-trial-extrabold-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial ExtraBold.otf -> tt-travels-trial-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial ExtraLight Italic.otf -> tt-travels-trial-extralight-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial ExtraLight.otf -> tt-travels-trial-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Light Italic.otf -> tt-travels-trial-light-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Light.otf -> tt-travels-trial-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Medium Italic.otf -> tt-travels-trial-medium-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Medium.otf -> tt-travels-trial-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Regular Italic.otf -> tt-travels-trial-regular-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Regular.otf -> tt-travels-trial-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Thin Italic.otf -> tt-travels-trial-thin-italic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Travels Trial Thin.otf -> tt-travels-trial-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TT Tsars B Trial Black.ttf -> tt-tsars-b-trial-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tt0375m.ttf -> tt0375m.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tt0861m.ttf -> tt0861m.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\tt0939m.ttf -> tt0939m.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\TTLakesCompressed-DemiBold.ttf -> ttlakescompressed-demibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ua_toasted_vein_btn.ttf -> ua_toasted_vein_btn.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-Black.ttf -> unbounded-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-Bold.ttf -> unbounded-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-ExtraBold.ttf -> unbounded-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-ExtraLight.ttf -> unbounded-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-Light.ttf -> unbounded-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-Medium.ttf -> unbounded-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-Regular.ttf -> unbounded-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Unbounded-SemiBold.ttf -> unbounded-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdana-2.ttf -> verdana-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdana.ttf -> verdana.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanab-2.ttf -> verdanab-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanab.ttf -> verdanab.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanai-2.ttf -> verdanai-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanai.ttf -> verdanai.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanaz-2.ttf -> verdanaz-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\verdanaz.ttf -> verdanaz.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\vi-bong-nuoc.ttf -> vi-bong-nuoc.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\VINERITC-2.TTF -> vineritc-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\VIVALDII-2.TTF -> vivaldii-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\VLADIMIR-2.TTF -> vladimir-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Wadik.otf -> wadik.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WalbaumBook-ItalicOsF.ttf -> walbaumbook-italicosf.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\webdings-2.ttf -> webdings-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\webdings.ttf -> webdings.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Weiss Regular.otf -> weiss-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\wingding-2.ttf -> wingding-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\wingding.ttf -> wingding.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WINGDNG2-2.TTF -> wingdng2-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WINGDNG3-2.TTF -> wingdng3-2.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WixMadeforDisplay-Bold.ttf -> wixmadefordisplay-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WixMadeforDisplay-ExtraBold.ttf -> wixmadefordisplay-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WixMadeforDisplay-Medium.ttf -> wixmadefordisplay-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WixMadeforDisplay-Regular.ttf -> wixmadefordisplay-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\WixMadeforDisplay-SemiBold.ttf -> wixmadefordisplay-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\xayax.ttf -> xayax.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\xayaxoutline.ttf -> xayaxoutline.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\xayax_o.ttf -> xayax_o.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\xayax_s.ttf -> xayax_s.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YanoneKaffeesatz.ttf -> yanonekaffeesatz.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroCut-Black.ttf -> yarocut-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroCut-Bold.ttf -> yarocut-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroCut-Thin.ttf -> yarocut-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroCut.ttf -> yarocut.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroOp-Black.ttf -> yaroop-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroOp-Bold.ttf -> yaroop-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroOp-Thin.ttf -> yaroop-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroOp.ttf -> yaroop.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroRg-Black.ttf -> yarorg-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroRg-Bold.ttf -> yarorg-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroRg-Thin.ttf -> yarorg-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroRg.ttf -> yarorg.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroSt-Black.ttf -> yarost-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroSt-Bold.ttf -> yarost-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroSt-Thin.ttf -> yarost-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YaroSt.ttf -> yarost.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\younglovees.ttf -> younglovees.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Black.ttf -> ysabeausc-black.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Bold.ttf -> ysabeausc-bold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-ExtraBold.ttf -> ysabeausc-extrabold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-ExtraLight.ttf -> ysabeausc-extralight.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Light.ttf -> ysabeausc-light.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Medium.ttf -> ysabeausc-medium.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Regular.ttf -> ysabeausc-regular.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-SemiBold.ttf -> ysabeausc-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\YsabeauSC-Thin.ttf -> ysabeausc-thin.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Ysobel W01 SemiBold.ttf -> ysobel-w01-semibold.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Zametka_Parletter.otf -> zametka_parletter.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\zapf-humanist-601-bt.ttf -> zapf-humanist-601-bt.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Zapfino.ttf -> zapfino.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZODIASTI.TTF -> zodiasti.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunner.otf -> zoomrunner.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunner3D.otf -> zoomrunner3d.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunner3DItalic.otf -> zoomrunner3ditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerAcademy.otf -> zoomrunneracademy.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerAcademyItalic.otf -> zoomrunneracademyitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerChrome.otf -> zoomrunnerchrome.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerChromeItalic.otf -> zoomrunnerchromeitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerCondensed.otf -> zoomrunnercondensed.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerCondensedItalic.otf -> zoomrunnercondenseditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerEngraved.otf -> zoomrunnerengraved.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerEngravedItalic.otf -> zoomrunnerengraveditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerExpanded.otf -> zoomrunnerexpanded.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerExpandedItalic.otf -> zoomrunnerexpandeditalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerGradient.otf -> zoomrunnergradient.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerGradientItalic.otf -> zoomrunnergradientitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerHalftone.otf -> zoomrunnerhalftone.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerHalftoneItalic.otf -> zoomrunnerhalftoneitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerItalic.otf -> zoomrunneritalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerLaser.otf -> zoomrunnerlaser.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerLaserItalic.otf -> zoomrunnerlaseritalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerLeftalic.otf -> zoomrunnerleftalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerPunch.otf -> zoomrunnerpunch.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerPunchItalic.otf -> zoomrunnerpunchitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerSemiItalic.otf -> zoomrunnersemiitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerSuperItalic.otf -> zoomrunnersuperitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerTitle.otf -> zoomrunnertitle.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZoomRunnerTitleItalic.otf -> zoomrunnertitleitalic.woff2
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ZWAdobeF-2.TTF -> zwadobef-2.woff2

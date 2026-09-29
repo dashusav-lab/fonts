@@ -1,0 +1,50 @@
+C:\Users\user\Desktop\FULL-FONT-BACKUP\19713.otf
+ERROR: IndexError: bytearray index out of range
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\7572.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\ALG_R.TTF
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\a_AlgeriusBlw Regular.Ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\a_Presentum.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\Bulka.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\China2.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\COOP.TTF
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\CrashCTT.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\down.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\dsbb.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\dserase.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\dssharpr.TTF
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\DS_Japn.ttf
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\FLOWERS.TTF
+ERROR: TTLibError: not enough 'glyf' table data
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\FRANST_U.TTF
+ERROR: IndexError: bytearray index out of range
+
+C:\Users\user\Desktop\FULL-FONT-BACKUP\HARDLIFE.TTF
+ERROR: TTLibError: not enough 'glyf' table data
