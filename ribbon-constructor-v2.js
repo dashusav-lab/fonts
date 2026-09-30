@@ -1136,120 +1136,100 @@ function renderChoices(
 
 async function getPhotos(key) {
 
-  if (
-    galleryCache.has(key)
-  ) {
-
-    return galleryCache.get(
-      key
-    );
-
+  if (galleryCache.has(key)) {
+    return galleryCache.get(key);
   }
 
+  /*
+    Вместо GitHub API используем общий photos.json.
+    Это устраняет ошибку HTTP 403 на публичной странице Tilda.
+  */
 
-  const url =
-    "https://api.github.com/repos/" +
+  const manifestUrl =
+    "https://cdn.jsdelivr.net/gh/" +
     GITHUB_OWNER +
     "/" +
     GITHUB_REPO +
-    "/contents/" +
-    encodeURIComponent(key) +
-    "?ref=" +
-    encodeURIComponent(
-      GITHUB_BRANCH
-    );
-
+    "@" +
+    GITHUB_BRANCH +
+    "/photos.json?v=" +
+    Date.now();
 
   const response =
     await fetch(
-      url,
+      manifestUrl,
       {
-        headers:{
-          Accept:
-            "application/vnd.github+json"
-        }
+        cache:"no-store"
       }
     );
 
-
-  if (
-    response.status === 404
-  ) {
-
-    galleryCache.set(
-      key,
-      []
-    );
-
-    return [];
-
-  }
-
-
   if (!response.ok) {
-
     throw new Error(
-      "GitHub HTTP " +
+      "Photo manifest HTTP " +
       response.status
     );
-
   }
 
-
-  const files =
+  const data =
     await response.json();
 
-
   if (
-    !Array.isArray(files)
+    !data ||
+    !Array.isArray(data.photos)
   ) {
-
-    return [];
-
+    throw new Error(
+      "Некорректный photos.json"
+    );
   }
 
+  const folderPrefix =
+    key + "/";
 
   const imageExtensions =
     /\.(jpg|jpeg|png|webp|gif)$/i;
 
-
   const photos =
-    files
+    data.photos
 
-      .filter(file => {
-
+      .filter(path => {
         return (
-          file.type === "file" &&
-          imageExtensions.test(
-            file.name
-          )
+          typeof path === "string" &&
+          path.startsWith(folderPrefix) &&
+          imageExtensions.test(path)
         );
-
       })
 
       .sort((a,b) => {
-
-        return a.name.localeCompare(
-          b.name,
+        return a.localeCompare(
+          b,
           undefined,
           {
             numeric:true,
             sensitivity:"base"
           }
         );
-
       })
 
-      .map(file =>
-        file.download_url
-      );
-
+      .map(path => {
+        return (
+          "https://cdn.jsdelivr.net/gh/" +
+          GITHUB_OWNER +
+          "/" +
+          GITHUB_REPO +
+          "@" +
+          GITHUB_BRANCH +
+          "/" +
+          path
+            .split("/")
+            .map(encodeURIComponent)
+            .join("/")
+        );
+      });
 
   galleryCache.set(
     key,
     photos
   );
-
 
   return photos;
 
