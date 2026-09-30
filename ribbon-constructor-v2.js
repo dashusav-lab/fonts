@@ -958,9 +958,12 @@ function find(list,id) {
 
 function galleryKey() {
 
+  // Папки в dashusav-lab/photo1525 названы по схеме:
+  // <id цвета ленты>_<id цвета нанесения>
+  // Например: white_silver, pale-pink_gold, black-silicone_white.
   return (
     state.ribbon +
-    "-" +
+    "_" +
     state.print
   );
 
