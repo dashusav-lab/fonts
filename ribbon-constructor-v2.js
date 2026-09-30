@@ -79,54 +79,81 @@ function prFontDisplayName(fileName) {
 
 // Read Git trees rather than Contents API (which stops at 1000 entries).
 async function prFetchRepoFonts() {
-  const api = "https://api.github.com/repos/" + PR_FONT_REPO_OWNER + "/" + PR_FONT_REPO_NAME;
-  async function getTree(ref) {
-    const controller = new AbortController();
-    const timeout = setTimeout(() => controller.abort(), 20000);
-    try {
-      const response = await fetch(api + "/git/trees/" + encodeURIComponent(ref), {
-        signal: controller.signal,
-        cache: "no-store",
-        headers: { Accept: "application/vnd.github+json" }
-      });
-      if (!response.ok) throw new Error(response.status === 403 || response.status === 429
-        ? "Лимит GitHub: повторите загрузку позже."
-        : "Не удалось прочитать библиотеку (HTTP " + response.status + ").");
-      const data = await response.json();
-      if (!Array.isArray(data.tree) || data.truncated) {
-        throw new Error("GitHub вернул неполный список шрифтов.");
-      }
-      return data.tree;
-    } finally { clearTimeout(timeout); }
+  /*
+    Статический manifest вместо api.github.com.
+    Это позволяет каталогу шрифтов работать на публичной странице Tilda
+    без неавторизованных GitHub API-запросов и ошибки HTTP 403.
+  */
+  const manifestUrl =
+    "https://cdn.jsdelivr.net/gh/" +
+    PR_FONT_REPO_OWNER +
+    "/" +
+    PR_FONT_REPO_NAME +
+    "@" +
+    PR_FONT_REPO_BRANCH +
+    "/font-files.json?v=" +
+    Date.now();
+
+  const response = await fetch(manifestUrl, { cache:"no-store" });
+
+  if (!response.ok) {
+    throw new Error(
+      "Не удалось прочитать библиотеку шрифтов (HTTP " +
+      response.status +
+      ")."
+    );
   }
-  const rootTree = await getTree(PR_FONT_REPO_BRANCH);
-  const directory = rootTree.find(entry => entry.type === "tree" && entry.path === PR_FONT_DIRECTORY);
-  const files = [];
-  async function walk(sha, prefix, suppliedEntries) {
-    const entries = suppliedEntries || await getTree(sha);
-    for (const entry of entries) {
-      const path = prefix + entry.path;
-      if (entry.type === "tree") await walk(entry.sha, path + "/");
-      else if (entry.type === "blob" && /\.woff2$/i.test(entry.path)) {
-        files.push({
-          name: entry.path,
-          path,
-          sha: entry.sha,
-          type: "file",
-          download_url: "https://raw.githubusercontent.com/" + PR_FONT_REPO_OWNER + "/" +
-            PR_FONT_REPO_NAME + "/" + PR_FONT_REPO_BRANCH + "/" +
-            path.split("/").map(encodeURIComponent).join("/")
-        });
-      }
-    }
+
+  const data = await response.json();
+
+  if (!data || !Array.isArray(data.fonts)) {
+    throw new Error("Некорректный каталог шрифтов.");
   }
-  if (directory) await walk(directory.sha, PR_FONT_DIRECTORY + "/");
+
+  const files = data.fonts
+    .filter(item =>
+      item &&
+      typeof item.path === "string" &&
+      /\.woff2$/i.test(item.path)
+    )
+    .map(item => {
+      const path = item.path;
+      const name = path.split("/").pop();
+
+      return {
+        name,
+        path,
+        sha:item.sha || path,
+        type:"file",
+        download_url:
+          "https://cdn.jsdelivr.net/gh/" +
+          PR_FONT_REPO_OWNER +
+          "/" +
+          PR_FONT_REPO_NAME +
+          "@" +
+          PR_FONT_REPO_BRANCH +
+          "/" +
+          path
+            .split("/")
+            .map(encodeURIComponent)
+            .join("/")
+      };
+    });
+
   if (!files.length) {
-    // Older uploads live directly in the repository root.
-    await walk(null, "", rootTree.filter(entry => entry.type === "blob"));
+    throw new Error(
+      "В репозитории пока нет опубликованных файлов WOFF2."
+    );
   }
-  if (!files.length) throw new Error("В репозитории пока нет опубликованных файлов WOFF2.");
-  return files.sort((a, b) => a.path.localeCompare(b.path, "ru", { numeric: true }));
+
+  return files.sort(
+    (x,y) =>
+      x.path.localeCompare(
+        y.path,
+        "ru",
+        { numeric:true }
+      )
+  );
 }
 
 const prFontStatus = document.createElement("p");
