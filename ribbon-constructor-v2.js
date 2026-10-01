@@ -1173,11 +1173,11 @@ async function getPhotos(key) {
   */
 
   const manifestUrl =
-    "https://cdn.jsdelivr.net/gh/" +
+    "https://raw.githubusercontent.com/" +
     GITHUB_OWNER +
     "/" +
     GITHUB_REPO +
-    "@" +
+    "/" +
     GITHUB_BRANCH +
     "/photos.json?v=" +
     Date.now();
@@ -1239,11 +1239,11 @@ async function getPhotos(key) {
 
       .map(path => {
         return (
-          "https://cdn.jsdelivr.net/gh/" +
+          "https://raw.githubusercontent.com/" +
           GITHUB_OWNER +
           "/" +
           GITHUB_REPO +
-          "@" +
+          "/" +
           GITHUB_BRANCH +
           "/" +
           path
