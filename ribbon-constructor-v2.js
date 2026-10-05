@@ -789,13 +789,15 @@ const printColors = [
   {
     id:"gold",
     name:"Золото",
-    color:"#d5ad52"
+    color:"#d5ad52",
+    metallic:true
   },
 
   {
     id:"silver",
     name:"Серебро",
-    color:"#cbd0d4"
+    color:"#cbd0d4",
+    metallic:true
   },
 
   {
@@ -825,20 +827,17 @@ const printColors = [
   {
     id:"green-metallic",
     name:"Зелёный металлик",
-    color:"#39855d"
-  },
+    color:"#39855d",\n    metallic:true\n  },
 
   {
     id:"red-metallic",
     name:"Красный металлик",
-    color:"#b82e39"
-  },
+    color:"#b82e39",\n    metallic:true\n  },
 
   {
     id:"blue-metallic",
     name:"Синий металлик",
-    color:"#32629b"
-  },
+    color:"#32629b",\n    metallic:true\n  },
 
   {
     id:"chocolate",
@@ -925,6 +924,11 @@ function renderPreview() {
   root.style.setProperty(
     "--print-color",
     print.color
+  );
+
+  root.classList.toggle(
+    "pr-metallic-print",
+    !!print.metallic
   );
 
 
