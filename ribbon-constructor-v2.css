@@ -757,11 +757,12 @@
   z-index: 100;
 }
 
-/* На телефонах оставляем обычный поток, чтобы превью не перекрывало экран. */
+/* На телефонах предпросмотр тоже закрепляется сверху. */
 @media(max-width:700px) {
   #packRibbonConstructor .pr-preview {
-    position: static;
-    top: auto;
+    position: sticky;
+    top: 8px;
+    z-index: 100;
   }
 }
 
