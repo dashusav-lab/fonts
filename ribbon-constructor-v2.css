@@ -745,3 +745,22 @@
   .pr-font-preview { font-size:20px; }
 }
 
+
+
+/* =========================================================
+   STICKY PREVIEW
+   Предпросмотр закрепляется сверху при прокрутке конструктора.
+========================================================= */
+#packRibbonConstructor .pr-preview {
+  position: sticky;
+  top: 16px;
+  z-index: 100;
+}
+
+/* На телефонах оставляем обычный поток, чтобы превью не перекрывало экран. */
+@media(max-width:700px) {
+  #packRibbonConstructor .pr-preview {
+    position: static;
+    top: auto;
+  }
+}
