@@ -54,7 +54,7 @@ const PR_FONT_REPO_OWNER = "dashusav-lab";
 const PR_FONT_REPO_NAME = "fonts";
 const PR_FONT_REPO_BRANCH = "main";
 const PR_FONT_DIRECTORY = "fonts";
-const PR_DEFAULT_FONT_FILE = "arial.woff2";
+const PR_DEFAULT_FONT_FILE = "montserrat-extrabold.woff2";
 
 const prFontFiles = new Map();
 const prLoadedFonts = new Set();
@@ -435,7 +435,7 @@ function prGetTracks() {
 }
 
 function prCurrentText() {
-  return prCustomText.value.trim() || "ВАША НАДПИСЬ";
+  return (prCustomText.value.trim() || "ВАШ ЛОГОТИП").toUpperCase();
 }
 
 function prBuildLogoSlots(count) {
@@ -471,6 +471,9 @@ function prRenderPersonalization() {
       element.style.fontFamily = "Arial, sans-serif";
       element.style.fontSize = "";
       element.textContent = "ВАШ ЛОГОТИП";
+      element.style.fontFamily = "Montserrat, Arial, sans-serif";
+      element.style.fontWeight = "800";
+      element.style.textTransform = "uppercase";
     });
   } else {
     const text = prCurrentText();
@@ -1694,7 +1697,7 @@ document
       prLogoRepeat.value = "5";
       prLogoSizeValue.textContent = "70%";
       prLogoRepeatValue.textContent = "5 повторов";
-      prCustomText.value = "ВАША НАДПИСЬ";
+      prCustomText.value = "ВАШ ЛОГОТИП";
       prFontLanguage.value = "all";
       prFontCategorySelect.value = "all";
       prApplyFontFilters(true, prDefaultFontValue);
