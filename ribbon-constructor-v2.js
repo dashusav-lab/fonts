@@ -827,17 +827,23 @@ const printColors = [
   {
     id:"green-metallic",
     name:"Зелёный металлик",
-    color:"#39855d",\n    metallic:true\n  },
+    color:"#39855d",
+    metallic:true
+  },
 
   {
     id:"red-metallic",
     name:"Красный металлик",
-    color:"#b82e39",\n    metallic:true\n  },
+    color:"#b82e39",
+    metallic:true
+  },
 
   {
     id:"blue-metallic",
     name:"Синий металлик",
-    color:"#32629b",\n    metallic:true\n  },
+    color:"#32629b",
+    metallic:true
+  },
 
   {
     id:"chocolate",
