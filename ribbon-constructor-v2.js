@@ -1005,12 +1005,17 @@ function renderChoices(containerId, list, stateKey) {
 
       const section = document.createElement("div");
       section.className = "pr-color-category";
+      section.style.display = "block";
       section.style.width = "100%";
-      section.style.flexBasis = "100%";
+      section.style.maxWidth = "100%";
+      section.style.flex = "0 0 100%";
+      section.style.boxSizing = "border-box";
 
       const title = document.createElement("div");
       title.className = "pr-color-category-title";
       title.textContent = category.title;
+      title.style.display = "block";
+      title.style.width = "100%";
       title.style.fontWeight = "700";
       title.style.fontSize = "14px";
       title.style.margin = "18px 0 10px";
@@ -1019,7 +1024,10 @@ function renderChoices(containerId, list, stateKey) {
       const choices = document.createElement("div");
       choices.className = "pr-color-category-choices";
       choices.style.display = "flex";
+      choices.style.width = "100%";
+      choices.style.flexDirection = "row";
       choices.style.flexWrap = "wrap";
+      choices.style.alignItems = "stretch";
       choices.style.gap = "10px";
 
       items.forEach(item => {
