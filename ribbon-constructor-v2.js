@@ -950,102 +950,175 @@ function renderPreview() {
    COLOR BUTTONS
 ========================================================= */
 
-function createChoiceButton(container, item, stateKey) {
+function renderChoices(
+  containerId,
+  list,
+  stateKey
+) {
 
-  const button = document.createElement("button");
-  button.type = "button";
-  button.className =
-    "pr-choice" +
-    (state[stateKey] === item.id ? " active" : "");
+  const container =
+    document.getElementById(
+      containerId
+    );
 
-  const swatch = document.createElement("span");
-  swatch.className = "pr-swatch";
-  swatch.style.setProperty("--swatch", item.color);
-
-  const name = document.createElement("span");
-  name.className = "pr-choice-name";
-  name.textContent = item.name;
-
-  button.append(swatch, name);
-
-  button.addEventListener("click", () => {
-    state[stateKey] = item.id;
-
-    container
-      .querySelectorAll(".pr-choice")
-      .forEach(element => element.classList.remove("active"));
-
-    button.classList.add("active");
-    renderPreview();
-    renderGallery();
-  });
-
-  return button;
-}
-
-
-function renderChoices(containerId, list, stateKey) {
-
-  const container = document.getElementById(containerId);
   container.innerHTML = "";
 
-  /* Для цветов ленты делаем отдельные визуальные категории. */
-  if (containerId === "prRibbonColors") {
+  const addButton = (item, target) => {
 
-    const categories = [
-      { id:"satin", title:"Сатиновые" },
-      { id:"matte", title:"Матовые сатиновые" },
-      { id:"silicone", title:"Силиконовые" }
-    ];
+    const button =
+      document.createElement(
+        "button"
+      );
 
-    categories.forEach(category => {
+    button.type =
+      "button";
 
-      const items = list.filter(item => item.category === category.id);
-      if (!items.length) return;
+    button.className =
+      "pr-choice" +
+      (
+        state[stateKey] === item.id
+          ? " active"
+          : ""
+      );
 
-      const section = document.createElement("div");
-      section.className = "pr-color-category";
-      section.style.display = "block";
-      section.style.width = "100%";
-      section.style.maxWidth = "100%";
-      section.style.flex = "0 0 100%";
-      section.style.boxSizing = "border-box";
+    const swatch =
+      document.createElement(
+        "span"
+      );
 
-      const title = document.createElement("div");
-      title.className = "pr-color-category-title";
-      title.textContent = category.title;
-      title.style.display = "block";
-      title.style.width = "100%";
-      title.style.fontWeight = "700";
-      title.style.fontSize = "14px";
-      title.style.margin = "18px 0 10px";
-      title.style.letterSpacing = ".02em";
+    swatch.className =
+      "pr-swatch";
 
-      const choices = document.createElement("div");
-      choices.className = "pr-color-category-choices";
-      choices.style.display = "flex";
-      choices.style.width = "100%";
-      choices.style.flexDirection = "row";
-      choices.style.flexWrap = "wrap";
-      choices.style.alignItems = "stretch";
-      choices.style.gap = "10px";
+    swatch.style.setProperty(
+      "--swatch",
+      item.color
+    );
 
-      items.forEach(item => {
-        choices.appendChild(
-          createChoiceButton(container, item, stateKey)
+    const name =
+      document.createElement(
+        "span"
+      );
+
+    name.className =
+      "pr-choice-name";
+
+    name.textContent =
+      item.name;
+
+    button.append(
+      swatch,
+      name
+    );
+
+    button.addEventListener(
+      "click",
+      () => {
+
+        state[stateKey] =
+          item.id;
+
+        container
+          .querySelectorAll(
+            ".pr-choice"
+          )
+          .forEach(element => {
+            element.classList.remove(
+              "active"
+            );
+          });
+
+        button.classList.add(
+          "active"
         );
-      });
 
-      section.append(title, choices);
-      container.appendChild(section);
-    });
+        renderPreview();
+        renderGallery();
+      }
+    );
 
+    target.appendChild(button);
+  };
+
+  if (containerId !== "prRibbonColors") {
+    list.forEach(item => addButton(item, container));
     return;
   }
 
-  list.forEach(item => {
+  /*
+    Категории лент.
+    Сам внешний контейнер переводим в обычный block,
+    чтобы CSS-сетка .pr-swatches не раскладывала категории
+    как отдельные ячейки.
+  */
+  container.style.display = "block";
+
+  const categories = [
+    { id:"satin", title:"Сатиновые" },
+    { id:"matte", title:"Матовые сатиновые" },
+    { id:"silicone", title:"Силиконовые" }
+  ];
+
+  categories.forEach((category, index) => {
+
+    const items =
+      list.filter(
+        item => item.category === category.id
+      );
+
+    if (!items.length) {
+      return;
+    }
+
+    const section =
+      document.createElement("div");
+
+    section.className =
+      "pr-color-category";
+
+    section.style.display = "block";
+    section.style.width = "100%";
+    section.style.marginTop =
+      index === 0 ? "0" : "22px";
+
+    const title =
+      document.createElement("div");
+
+    title.className =
+      "pr-color-category-title";
+
+    title.textContent =
+      category.title;
+
+    title.style.display = "block";
+    title.style.marginBottom = "10px";
+    title.style.fontSize = "14px";
+    title.style.fontWeight = "700";
+
+    const row =
+      document.createElement("div");
+
+    row.className =
+      "pr-color-category-row";
+
+    /*
+      Используем ту же CSS-сетку, которая уже была
+      настроена для цветов в исходном конструкторе.
+      Поэтому кнопки сохраняют исходные размеры и
+      идут ровными строками.
+    */
+    row.classList.add("pr-swatches");
+
+    items.forEach(
+      item => addButton(item, row)
+    );
+
+    section.append(
+      title,
+      row
+    );
+
     container.appendChild(
-      createChoiceButton(container, item, stateKey)
+      section
     );
   });
 
