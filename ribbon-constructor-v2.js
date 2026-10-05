@@ -705,7 +705,19 @@ if (prLogoUpload) {
 }
 
 prPopulateFonts();
-prBuildLogoSlots(5);
+
+/* Стартовые настройки предпросмотра:
+   мобильный — 60% и 2 повтора,
+   компьютер — 70% и 5 повторов. */
+const prIsMobileInitial = window.matchMedia("(max-width: 700px)").matches;
+const prInitialLogoSize = prIsMobileInitial ? 60 : 70;
+const prInitialLogoRepeat = prIsMobileInitial ? 2 : 5;
+
+prLogoSize.value = String(prInitialLogoSize);
+prLogoRepeat.value = String(prInitialLogoRepeat);
+prLogoSizeValue.textContent = prInitialLogoSize + "%";
+prLogoRepeatValue.textContent = prRepeatLabel(prInitialLogoRepeat);
+prBuildLogoSlots(prInitialLogoRepeat);
 prSetMode("text");
 
 
@@ -1693,17 +1705,20 @@ document
 
       prUploadedSvgMarkup = "";
       prUploadedSvgRatio = 2.5;
-      prLogoSize.value = "70";
-      prLogoRepeat.value = "5";
-      prLogoSizeValue.textContent = "70%";
-      prLogoRepeatValue.textContent = "5 повторов";
+      const isMobileReset = window.matchMedia("(max-width: 700px)").matches;
+      const resetLogoSize = isMobileReset ? 60 : 70;
+      const resetLogoRepeat = isMobileReset ? 2 : 5;
+      prLogoSize.value = String(resetLogoSize);
+      prLogoRepeat.value = String(resetLogoRepeat);
+      prLogoSizeValue.textContent = resetLogoSize + "%";
+      prLogoRepeatValue.textContent = prRepeatLabel(resetLogoRepeat);
       prCustomText.value = "ВАШ ЛОГОТИП";
       prFontLanguage.value = "all";
       prFontCategorySelect.value = "all";
       prApplyFontFilters(true, prDefaultFontValue);
       if (prLogoUpload) prLogoUpload.value = "";
       if (prLogoFileName) prLogoFileName.textContent = "";
-      prBuildLogoSlots(5);
+      prBuildLogoSlots(resetLogoRepeat);
       prSetMode("text");
 
       init();
