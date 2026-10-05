@@ -729,152 +729,53 @@ const GITHUB_BRANCH =
 
 const ribbonColors = [
 
-  {
-    id:"beige",
-    name:"Бежевый",
-    color:"#cdb99d"
-  },
+  /* САТИНОВЫЕ */
+  { id:"beige", name:"Бежевый", color:"#cdb99d", category:"satin" },
+  { id:"white", name:"Белая", color:"#f4f1e9", category:"satin" },
+  { id:"pale-pink", name:"Бледно-розовый", color:"#e6b7bd", category:"satin" },
+  { id:"burgundy", name:"Бордовый", color:"#751c31", category:"satin" },
+  { id:"light-blue", name:"Голубой", color:"#69a8cc", category:"satin" },
+  { id:"yellow", name:"Жёлтый", color:"#e6c42f", category:"satin" },
+  { id:"green", name:"Зелёный", color:"#28764c", category:"satin" },
+  { id:"red", name:"Красный", color:"#c92834", category:"satin" },
+  { id:"cream", name:"Кремовый", color:"#e5d0ad", category:"satin" },
+  { id:"milky", name:"Молочный", color:"#eee3cf", category:"satin" },
+  { id:"sky-blue", name:"Небесно-голубой", color:"#9fc8dd", category:"satin" },
+  { id:"olive", name:"Оливковый", color:"#818258", category:"satin" },
+  { id:"orange", name:"Оранжевый", color:"#e97b2c", category:"satin" },
+  { id:"dusty-rose", name:"Пыльная роза", color:"#a75b70", category:"satin" },
+  { id:"light-green", name:"Светло-зелёный", color:"#82b986", category:"satin" },
+  { id:"gray", name:"Серый", color:"#777a7e", category:"satin" },
+  { id:"blue", name:"Синий", color:"#244f91", category:"satin" },
+  { id:"purple", name:"Фиолетовый", color:"#673c83", category:"satin" },
+  { id:"fuchsia", name:"Фуксия", color:"#bb2970", category:"satin" },
+  { id:"black", name:"Чёрная", color:"#171717", category:"satin" },
+  { id:"chocolate", name:"Шоколадный", color:"#5b352c", category:"satin" },
 
-  {
-    id:"white",
-    name:"Белая",
-    color:"#f4f1e9"
-  },
+  /* НОВЫЕ САТИНОВЫЕ */
+  { id:"milk-chocolate", name:"Молочный шоколад", color:"#76594f", category:"satin" },
+  { id:"light-pink", name:"Светло-розовый", color:"#e9a9be", category:"satin" },
+  { id:"lilac", name:"Лиловый", color:"#a05c7b", category:"satin" },
+  { id:"arctic-ice", name:"Арктический лёд", color:"#b5cce8", category:"satin" },
+  { id:"iris", name:"Ирис", color:"#7377c9", category:"satin" },
+  { id:"emerald", name:"Изумрудный", color:"#087b83", category:"satin" },
+  { id:"carmandi", name:"Карманди", color:"#a69a96", category:"satin" },
+  { id:"lime", name:"Лайм", color:"#82e934", category:"satin" },
+  { id:"barbie", name:"Барби", color:"#f04479", category:"satin" },
+  { id:"electric", name:"Электрик", color:"#17559b", category:"satin" },
+  { id:"peach", name:"Персик", color:"#eab9a7", category:"satin" },
+  { id:"gold-ribbon", name:"Золото", color:"#b77b3d", category:"satin" },
 
-  {
-    id:"white-silicone",
-    name:"Белый силикон",
-    color:"#f7f7f4",
-    silicone:true
-  },
+  /* МАТОВЫЕ САТИНОВЫЕ */
+  { id:"matte-white", name:"Белый", color:"#f2f0ec", category:"matte" },
+  { id:"matte-sky", name:"Небесный", color:"#8ec9dd", category:"matte" },
+  { id:"matte-pink", name:"Розовый", color:"#e8a4b7", category:"matte" },
+  { id:"matte-light-green", name:"Салатовый", color:"#c7e67c", category:"matte" },
 
-  {
-    id:"pale-pink",
-    name:"Бледно-розовый",
-    color:"#e6b7bd"
-  },
-
-  {
-    id:"burgundy",
-    name:"Бордовый",
-    color:"#751c31"
-  },
-
-  {
-    id:"light-blue",
-    name:"Голубой",
-    color:"#69a8cc"
-  },
-
-  {
-    id:"yellow",
-    name:"Жёлтый",
-    color:"#e6c42f"
-  },
-
-  {
-    id:"green",
-    name:"Зелёный",
-    color:"#28764c"
-  },
-
-  {
-    id:"red",
-    name:"Красный",
-    color:"#c92834"
-  },
-
-  {
-    id:"cream",
-    name:"Кремовый",
-    color:"#e5d0ad"
-  },
-
-  {
-    id:"milky",
-    name:"Молочный",
-    color:"#eee3cf"
-  },
-
-  {
-    id:"sky-blue",
-    name:"Небесно-голубой",
-    color:"#9fc8dd"
-  },
-
-  {
-    id:"olive",
-    name:"Оливковый",
-    color:"#818258"
-  },
-
-  {
-    id:"orange",
-    name:"Оранжевый",
-    color:"#e97b2c"
-  },
-
-  {
-    id:"dusty-rose",
-    name:"Пыльная роза",
-    color:"#a75b70"
-  },
-
-  {
-    id:"pink-silicone",
-    name:"Розовый силикон",
-    color:"#d7839c",
-    silicone:true
-  },
-
-  {
-    id:"light-green",
-    name:"Светло-зелёный",
-    color:"#82b986"
-  },
-
-  {
-    id:"gray",
-    name:"Серый",
-    color:"#777a7e"
-  },
-
-  {
-    id:"blue",
-    name:"Синий",
-    color:"#244f91"
-  },
-
-  {
-    id:"purple",
-    name:"Фиолетовый",
-    color:"#673c83"
-  },
-
-  {
-    id:"fuchsia",
-    name:"Фуксия",
-    color:"#bb2970"
-  },
-
-  {
-    id:"black",
-    name:"Чёрная",
-    color:"#171717"
-  },
-
-  {
-    id:"black-silicone",
-    name:"Чёрный силикон",
-    color:"#242424",
-    silicone:true
-  },
-
-  {
-    id:"chocolate",
-    name:"Шоколадный",
-    color:"#5b352c"
-  }
+  /* СИЛИКОНОВЫЕ */
+  { id:"white-silicone", name:"Белый", color:"#f7f7f4", category:"silicone", silicone:true },
+  { id:"pink-silicone", name:"Розовый", color:"#d7839c", category:"silicone", silicone:true },
+  { id:"black-silicone", name:"Чёрный", color:"#242424", category:"silicone", silicone:true }
 
 ];
 
@@ -1049,109 +950,95 @@ function renderPreview() {
    COLOR BUTTONS
 ========================================================= */
 
-function renderChoices(
-  containerId,
-  list,
-  stateKey
-) {
+function createChoiceButton(container, item, stateKey) {
 
-  const container =
-    document.getElementById(
-      containerId
-    );
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className =
+    "pr-choice" +
+    (state[stateKey] === item.id ? " active" : "");
 
+  const swatch = document.createElement("span");
+  swatch.className = "pr-swatch";
+  swatch.style.setProperty("--swatch", item.color);
+
+  const name = document.createElement("span");
+  name.className = "pr-choice-name";
+  name.textContent = item.name;
+
+  button.append(swatch, name);
+
+  button.addEventListener("click", () => {
+    state[stateKey] = item.id;
+
+    container
+      .querySelectorAll(".pr-choice")
+      .forEach(element => element.classList.remove("active"));
+
+    button.classList.add("active");
+    renderPreview();
+    renderGallery();
+  });
+
+  return button;
+}
+
+
+function renderChoices(containerId, list, stateKey) {
+
+  const container = document.getElementById(containerId);
   container.innerHTML = "";
 
+  /* Для цветов ленты делаем отдельные визуальные категории. */
+  if (containerId === "prRibbonColors") {
+
+    const categories = [
+      { id:"satin", title:"Сатиновые" },
+      { id:"matte", title:"Матовые сатиновые" },
+      { id:"silicone", title:"Силиконовые" }
+    ];
+
+    categories.forEach(category => {
+
+      const items = list.filter(item => item.category === category.id);
+      if (!items.length) return;
+
+      const section = document.createElement("div");
+      section.className = "pr-color-category";
+      section.style.width = "100%";
+      section.style.flexBasis = "100%";
+
+      const title = document.createElement("div");
+      title.className = "pr-color-category-title";
+      title.textContent = category.title;
+      title.style.fontWeight = "700";
+      title.style.fontSize = "14px";
+      title.style.margin = "18px 0 10px";
+      title.style.letterSpacing = ".02em";
+
+      const choices = document.createElement("div");
+      choices.className = "pr-color-category-choices";
+      choices.style.display = "flex";
+      choices.style.flexWrap = "wrap";
+      choices.style.gap = "10px";
+
+      items.forEach(item => {
+        choices.appendChild(
+          createChoiceButton(container, item, stateKey)
+        );
+      });
+
+      section.append(title, choices);
+      container.appendChild(section);
+    });
+
+    return;
+  }
 
   list.forEach(item => {
-
-    const button =
-      document.createElement(
-        "button"
-      );
-
-    button.type =
-      "button";
-
-    button.className =
-      "pr-choice" +
-      (
-        state[stateKey] === item.id
-          ? " active"
-          : ""
-      );
-
-
-    const swatch =
-      document.createElement(
-        "span"
-      );
-
-    swatch.className =
-      "pr-swatch";
-
-    swatch.style.setProperty(
-      "--swatch",
-      item.color
-    );
-
-
-    const name =
-      document.createElement(
-        "span"
-      );
-
-    name.className =
-      "pr-choice-name";
-
-    name.textContent =
-      item.name;
-
-
-    button.append(
-      swatch,
-      name
-    );
-
-
-    button.addEventListener(
-      "click",
-      () => {
-
-        state[stateKey] =
-          item.id;
-
-
-        container
-          .querySelectorAll(
-            ".pr-choice"
-          )
-          .forEach(element => {
-
-            element.classList.remove(
-              "active"
-            );
-
-          });
-
-
-        button.classList.add(
-          "active"
-        );
-
-
-        renderPreview();
-
-        renderGallery();
-
-      }
-    );
-
-
     container.appendChild(
-      button
+      createChoiceButton(container, item, stateKey)
     );
-
   });
 
 }
