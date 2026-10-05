@@ -860,7 +860,7 @@ const printColors = [
 ========================================================= */
 
 const state = {
-  ribbon:"beige",
+  ribbon:"white",
   print:"gold"
 };
 
@@ -939,6 +939,16 @@ function renderPreview() {
     element.classList.toggle(
       "silicone",
       !!ribbon.silicone
+    );
+
+    element.classList.toggle(
+      "matte",
+      ribbon.category === "matte"
+    );
+
+    element.classList.toggle(
+      "satin",
+      ribbon.category === "satin"
     );
 
   });
@@ -1663,7 +1673,7 @@ document
     () => {
 
       state.ribbon =
-        "beige";
+        "white";
 
       state.print =
         "gold";
