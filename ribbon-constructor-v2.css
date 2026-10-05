@@ -872,3 +872,64 @@
       color-mix(in srgb, var(--swatch) 80%, black 20%)),
     var(--swatch);
 }
+
+
+/* =========================================================
+   MATERIAL EFFECT CORRECTIONS
+========================================================= */
+
+/* Матовая лента: строго сплошной цвет, без блика и градиента. */
+.pr-ribbon.matte {
+  background: var(--ribbon-color) !important;
+}
+.pr-ribbon.matte::before {
+  display: none !important;
+}
+
+/* По умолчанию нанесение строго матовое. */
+#packRibbonConstructor:not(.pr-metallic-print) .pr-logo {
+  background: none !important;
+  color: var(--print-color) !important;
+  -webkit-text-fill-color: var(--print-color) !important;
+}
+#packRibbonConstructor:not(.pr-metallic-print) .pr-logo.has-svg::after {
+  display: none !important;
+}
+
+/* Металлический перелив только:
+   золото, серебро, зелёный/красный/синий металлик. */
+#packRibbonConstructor.pr-metallic-print .pr-logo {
+  color: var(--print-color);
+  background:
+    linear-gradient(105deg,
+      color-mix(in srgb, var(--print-color) 76%, black 24%) 0%,
+      var(--print-color) 28%,
+      color-mix(in srgb, var(--print-color) 68%, white 32%) 48%,
+      var(--print-color) 68%,
+      color-mix(in srgb, var(--print-color) 80%, black 20%) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Кружки нанесения по умолчанию матовые. */
+#prPrintColors .pr-swatch::after {
+  background: var(--swatch) !important;
+}
+
+/* Только выбранный металлический цвет показывает металлический перелив.
+   Остальные остаются матовыми и в палитре. */
+#packRibbonConstructor.pr-metallic-print #prPrintColors .pr-choice.active .pr-swatch::after {
+  background:
+    linear-gradient(115deg,
+      color-mix(in srgb, var(--swatch) 72%, black 28%),
+      var(--swatch) 35%,
+      color-mix(in srgb, var(--swatch) 65%, white 35%) 52%,
+      var(--swatch) 72%,
+      color-mix(in srgb, var(--swatch) 80%, black 20%)) !important;
+}
+
+/* Матовые ленты также без градиента в кружках выбора. */
+#prRibbonColors .pr-color-category:nth-child(2) .pr-swatch::after {
+  background: var(--swatch) !important;
+}
