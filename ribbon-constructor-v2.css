@@ -933,3 +933,30 @@
 #prRibbonColors .pr-color-category:nth-child(2) .pr-swatch::after {
   background: var(--swatch) !important;
 }
+
+
+/* =========================================================
+   METALLIC SWATCHES — ALWAYS VISIBLE
+========================================================= */
+
+/* Металлические цвета должны выглядеть металлическими всегда,
+   а не только после выбора. Порядок в printColors:
+   1 золото, 2 серебро, 7 зелёный, 8 красный, 9 синий. */
+#prPrintColors .pr-choice:nth-child(1) .pr-swatch::after,
+#prPrintColors .pr-choice:nth-child(2) .pr-swatch::after,
+#prPrintColors .pr-choice:nth-child(7) .pr-swatch::after,
+#prPrintColors .pr-choice:nth-child(8) .pr-swatch::after,
+#prPrintColors .pr-choice:nth-child(9) .pr-swatch::after {
+  background:
+    linear-gradient(120deg,
+      color-mix(in srgb, var(--swatch) 64%, black 36%) 0%,
+      color-mix(in srgb, var(--swatch) 90%, black 10%) 24%,
+      color-mix(in srgb, var(--swatch) 58%, white 42%) 43%,
+      white 49%,
+      color-mix(in srgb, var(--swatch) 70%, white 30%) 54%,
+      var(--swatch) 72%,
+      color-mix(in srgb, var(--swatch) 68%, black 32%) 100%) !important;
+  box-shadow:
+    inset 0 1px 1px rgba(255,255,255,.55),
+    inset 0 -1px 1px rgba(0,0,0,.20);
+}
