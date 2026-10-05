@@ -764,3 +764,111 @@
     top: auto;
   }
 }
+
+
+/* =========================================================
+   MATERIAL TEXTURES + METALLIC PRINT
+========================================================= */
+
+/* Сатин: мягкий перелив по ткани. */
+.pr-ribbon.satin::before {
+  background:
+    linear-gradient(105deg,
+      rgba(255,255,255,.34) 0%,
+      rgba(255,255,255,.08) 20%,
+      rgba(0,0,0,.07) 43%,
+      rgba(255,255,255,.25) 62%,
+      rgba(0,0,0,.045) 82%,
+      rgba(255,255,255,.14) 100%),
+    repeating-linear-gradient(90deg,
+      rgba(255,255,255,.035) 0,
+      rgba(255,255,255,.035) 1px,
+      rgba(0,0,0,.018) 1px,
+      rgba(0,0,0,.018) 2px);
+  opacity: .78;
+}
+
+/* Матовая сатиновая: без блика и без выраженной фактуры. */
+.pr-ribbon.matte::before {
+  background: rgba(255,255,255,.025);
+  opacity: 1;
+}
+
+/* Силикон: слегка полупрозрачный, гладкий, с мягким бликом. */
+.pr-ribbon.silicone {
+  background:
+    linear-gradient(100deg,
+      color-mix(in srgb, var(--ribbon-color) 84%, white 16%),
+      color-mix(in srgb, var(--ribbon-color) 94%, transparent 6%) 35%,
+      color-mix(in srgb, var(--ribbon-color) 82%, white 18%) 68%,
+      var(--ribbon-color));
+  box-shadow:
+    0 9px 20px rgba(35,25,27,.09),
+    inset 0 1px 0 rgba(255,255,255,.38),
+    inset 0 0 0 1px rgba(0,0,0,.06);
+}
+.pr-ribbon.silicone::before {
+  background:
+    linear-gradient(100deg,
+      rgba(255,255,255,.30),
+      rgba(255,255,255,.05) 27%,
+      rgba(255,255,255,.20) 55%,
+      rgba(255,255,255,.03) 78%,
+      rgba(255,255,255,.16));
+  opacity: .62;
+}
+
+/* Нанесение: лёгкий фольгированный/металлический перелив. */
+.pr-print {
+  color: var(--print-color);
+}
+.pr-logo {
+  color: var(--print-color);
+  background:
+    linear-gradient(105deg,
+      color-mix(in srgb, var(--print-color) 76%, black 24%) 0%,
+      var(--print-color) 28%,
+      color-mix(in srgb, var(--print-color) 68%, white 32%) 48%,
+      var(--print-color) 68%,
+      color-mix(in srgb, var(--print-color) 80%, black 20%) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* SVG получает тот же мягкий визуальный объём через блик контейнера. */
+.pr-logo.has-svg {
+  position: relative;
+}
+.pr-logo.has-svg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background: linear-gradient(105deg, transparent 20%, rgba(255,255,255,.24) 48%, transparent 72%);
+  mix-blend-mode: screen;
+  opacity: .55;
+}
+
+/* Кружки выбора ленты тоже показывают материал. */
+#prRibbonColors .pr-swatch::after {
+  background:
+    linear-gradient(110deg,
+      rgba(255,255,255,.30),
+      transparent 35%,
+      rgba(0,0,0,.08) 58%,
+      rgba(255,255,255,.18)),
+    var(--swatch);
+}
+
+/* Кружки цвета нанесения выглядят чуть более фольгированными. */
+#prPrintColors .pr-swatch::after {
+  background:
+    linear-gradient(115deg,
+      color-mix(in srgb, var(--swatch) 72%, black 28%),
+      var(--swatch) 35%,
+      color-mix(in srgb, var(--swatch) 65%, white 35%) 52%,
+      var(--swatch) 72%,
+      color-mix(in srgb, var(--swatch) 80%, black 20%)),
+    var(--swatch);
+}
